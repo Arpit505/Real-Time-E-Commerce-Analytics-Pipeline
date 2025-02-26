@@ -25,7 +25,7 @@ Real-time data processing pipeline for e-commerce events using Scala, Apache Kaf
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-analytics.git
+git clone https://github.com/Arpit0505/ecommerce-analytics.git
 cd ecommerce-analytics
 ```
 
